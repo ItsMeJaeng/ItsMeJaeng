@@ -1,7 +1,5 @@
-### Hi there 👋  
-
 <!--
-**ItsMeJaeng/ItsMeJaeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ItsMeJaeng/ItsMeJaeng is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://itsmejaeng.github.io/%22%3E
+    <img src="https://img.shields.io/badge/GitHub Pages-FFFFFF?style=flat&logo=GitHubPages&logoColor=222222&link=https://blog.naver.com/jaengsjaengs"
+         style="height : 40px;"/>
+</a>
+
+[![ItsMeJaeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsMeJaeng)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsMeJaeng&layout=compact&theme=default&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
